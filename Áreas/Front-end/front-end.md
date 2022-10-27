@@ -9,6 +9,8 @@
     
 - [Algoritmos e programação de computadores](https://www.youtube.com/playlist?list=PLE8he6V18nydBazaDSxfB6xZw0t6O6VKC) por [Bruno Lopes](https://twitter.com/profbrunolopes);
 
+  - [Pratica logica de programação](https://digital.fcamara.com.br/orange-evolution), por (Orange juice);
+
 ---
 
 ## Git e Github
